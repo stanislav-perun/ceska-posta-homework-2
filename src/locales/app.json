@@ -1,0 +1,15 @@
+{
+  "arrival": "Přílet",
+  "arrival_plural": "Přílety",
+  "arrivalInfo": "Informace o příletech",
+  "departure": "Odlet",
+  "departure_plural": "Odlety",
+  "departureInfo": "Informace o odletech",
+  "callsign": "Volací znak",
+  "departureAirport": "Odlet z",
+  "filterByCallSign": "Filtrovat volající znak",
+  "chooseDate": "Vyberte datum",
+  "noResultsFound": "Nebyly nalezeny žádné lety",
+  "filterNoResultsFound": "Vašemu filtru neodpovídají žádné lety",
+  "noResultsDueToError": "Něco se pokazilo"
+}
